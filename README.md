@@ -42,7 +42,7 @@ Os dados foram inseridos no banco de dados por meio da ferramenta de ETL KNIME. 
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg' width='50' height='50'/> 
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg' width='50' height='50'/> 
 <img src='https://avatars.githubusercontent.com/u/42988494?s=200&v=4' width='50' height='50'/> 
-<img src='https://github.com/jorgeplatero/postech_fase_4_anp/blob/c4769c12a8050c4f7ccb68ebf8bf9d74cd2de788/img/logo_knime.png' width='50' height='50'/>
+<img src='https://github.com/jorgeplatero/postech_fase_4_anp/blob/c2e9debdc661af81f8bb28249a4ff3f8415dd820/img/logo_knime_2.png' height='40'/>
 
 ## Fontes de Dados
 
