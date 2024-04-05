@@ -40,6 +40,8 @@ O fluxo do ETL foi construído na aplicação conforme ilustrado:
 ## Tecnologias Utilizadas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="50"/>
+<img src="https://avatars.githubusercontent.com/u/42988494?s=200&v=4" width="50" height="50"/>
 
 ## Fontes de Dados
 
