@@ -33,24 +33,19 @@ CREATE TABLE anp.preco_combustivel(
 
 ### ETL dos dados
 
-Os dados foram inseridos por meio da ferramenta de ETL KNIME.<br/>
+Os dados foram inseridos no banco de dados por meio da ferramenta de ETL KNIME. O fluxo do ETL foi construído na aplicação conforme ilustrado abaixo.
 
-O fluxo do ETL foi construído na aplicação conforme ilustrado:
-
-![etl knime]()
+![etl knime](https://github.com/jorgeplatero/postech_fase_4_anp/blob/c4769c12a8050c4f7ccb68ebf8bf9d74cd2de788/img/etl_knime.png)
 
 ## Tecnologias Utilizadas
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg' width='50' height='50'/> 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg' width='50' height='50'/>
-<img src='https://avatars.githubusercontent.com/u/42988494?s=200&v=4' width='50' height='50'/>
-<img src='' width='50' height='50'/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg' width='50' height='50'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg' width='50' height='50'/> <img src='https://avatars.githubusercontent.com/u/42988494?s=200&v=4' width='50' height='50'/> <img src='https://github.com/jorgeplatero/postech_fase_4_anp/blob/c4769c12a8050c4f7ccb68ebf8bf9d74cd2de788/img/logo_knime.png' width='50' height='50'/>
 
 ## Fontes de Dados
 
 Link para a base de dados: <a style='text-decoration:none;' href='https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/serie-historica-de-precos-de-combustiveis'>link</a>.
 
-Utilizou-se os últimos 5 anos da base de dados.
+Utilizou-se os dados de 2018 a 2022.
 
 ## Link para a Aplicação
 
