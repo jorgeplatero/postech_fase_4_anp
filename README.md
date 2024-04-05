@@ -37,18 +37,21 @@ Os dados foram inseridos por meio da ferramenta de ETL KNIME.<br/>
 
 O fluxo do ETL foi construído na aplicação conforme ilustrado:
 
+![etl knime]()
+
 ## Tecnologias Utilizadas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="50"/>
-<img src="https://avatars.githubusercontent.com/u/42988494?s=200&v=4" width="50" height="50"/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg' width='50' height='50'/> 
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg' width='50' height='50'/>
+<img src='https://avatars.githubusercontent.com/u/42988494?s=200&v=4' width='50' height='50'/>
+<img src='' width='50' height='50'/>
 
 ## Fontes de Dados
 
-Link para a base de dados: <a style="text-decoration:none;" href="https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/serie-historica-de-precos-de-combustiveis">link</a>.
+Link para a base de dados: <a style='text-decoration:none;' href='https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/serie-historica-de-precos-de-combustiveis'>link</a>.
 
 Utilizou-se os últimos 5 anos da base de dados.
 
 ## Link para a Aplicação
 
-Dashboard Power BI: <a style="text-decoration:none;" href="https://app.powerbi.com/view?r=eyJrIjoiNGJlOTY3ZmYtZjZlMS00ZTEzLWJiMmMtMWRjYjJiZTBlYTAzIiwidCI6IjFmZTA1YTY2LWNhMjYtNGJmZC1hZDlkLWQzMDRhZGViMjIwNSJ9" target="_blank">link</a>.
+Dashboard Power BI: <a style='text-decoration:none;' href='https://app.powerbi.com/view?r=eyJrIjoiNGJlOTY3ZmYtZjZlMS00ZTEzLWJiMmMtMWRjYjJiZTBlYTAzIiwidCI6IjFmZTA1YTY2LWNhMjYtNGJmZC1hZDlkLWQzMDRhZGViMjIwNSJ9' target='_blank'>link</a>.
