@@ -6,7 +6,7 @@ Este projeto consiste em um dashboard que reune indicadores referentes ao preço
 
 ## Arquitetura do projeto
 
-![etl knime](https://github.com/jorgeplatero/postech_fase_4_anp/blob/752c49c70357ca7a8d860c0ef3d6057e0d83117b/img/arquitetura_anp.png)
+![etl knime](https://github.com/jorgeplatero/postech_fase_4_anp/blob/b1addcdd199384a9c5869115ee81e90fa8f17571/img/arquitetura_anp.png)
 
 ### Banco de dados
 
