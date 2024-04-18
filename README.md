@@ -4,11 +4,11 @@
 
 Este projeto consiste em um dashboard que reune indicadores referentes ao preço dos combutíveis praticado em postos brasileiros e publicados pela ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis).
 
-## Arquitetura do projeto
+## Arquitetura do Projeto
 
-![etl knime](https://github.com/jorgeplatero/postech_fase_4_anp/blob/752c49c70357ca7a8d860c0ef3d6057e0d83117b/img/arquitetura_anp.png)
+![arquitetura do projeto](https://github.com/jorgeplatero/postech_fase_4_anp/blob/b1addcdd199384a9c5869115ee81e90fa8f17571/img/arquitetura_anp.png)
 
-### Banco de dados
+### Banco de Dados
 
 A tabela abaixo foi criada para comportar os dados.
 
@@ -33,7 +33,7 @@ CREATE TABLE anp.preco_combustivel(
 )
 ```
 
-### ETL dos dados
+### ETL dos Dados
 
 Os dados foram inseridos no banco de dados por meio da ferramenta de ETL KNIME. O fluxo do ETL foi construído na aplicação conforme ilustrado abaixo.
 
